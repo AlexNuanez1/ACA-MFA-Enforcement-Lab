@@ -6,8 +6,19 @@
 
 <h2>Tools used: </h2>
   
--  PowerShell
--  Windows 10 (21H2)
+- Microsoft Azure Free Account
+
+- Azure Active Directory (Entra ID)
+
+- Conditional Access Policies
+
+- Azure MFA (Multi-Factor Authentication)
+
+- Sign-in Logs (Azure AD > Monitoring)
+
+- Azure Monitor (optional, for log visualization)
+
+- Test user accounts (created in Azure AD)
 
 <h2>Program walk-through:</h2>
 
