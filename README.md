@@ -2,7 +2,7 @@
 
 <h2> Description: </h2>
 
-Understand identity security and policy enforcement in a real-world cloud environment.
+This lab demonstrates how to configure and enforce Conditional Access policies in Azure AD, including MFA setup and blocking legacy authentication. It simulates real-world identity protection strategies used to secure cloud access.
 
 <h2>Tools used: </h2>
   
