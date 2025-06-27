@@ -2,7 +2,7 @@
 
 <h2> Description: </h2>
 
-- Understand identity security and policy enforcement in a real-world cloud environment.
+Understand identity security and policy enforcement in a real-world cloud environment.
 
 <h2>Tools used: </h2>
   
@@ -29,3 +29,5 @@ Launch the utility: <br/>
 <br />
 
 <h2> What security outcome was achieved: </h2>
+Identity is the new perimeter in cloud environments. This project demonstrates how to implement and enforce secure access policies using Azure AD Conditional Access and MFA. It highlights my ability to reduce unauthorized access risks, respond to modern threats, and manage identity securely in a cloud-first infrastructure.
+
