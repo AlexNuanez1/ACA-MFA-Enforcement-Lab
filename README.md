@@ -23,8 +23,8 @@ This lab demonstrates how to configure and enforce Conditional Access policies i
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src=/>
+Signing into portal.azure: <br/>
+<img src="https://imgur.com/a/359SFF3.png" height="80%" width="80%"/>
 <br />
 <br />
 
