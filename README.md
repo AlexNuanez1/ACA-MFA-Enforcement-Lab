@@ -6,13 +6,7 @@ This lab demonstrates how to configure and enforce Conditional Access policies i
 
 <h2> Tools Used: </h2>
 
-- Microsoft Azure Free Account  
-- Azure Active Directory (Entra ID)  
-- Conditional Access Policies  
-- Azure MFA (Multi-Factor Authentication)  
-- Sign-in Logs (Azure AD > Monitoring)  
-- Azure Monitor (optional, for log visualization)  
-- Test user accounts (created in Azure AD)
+-  Entra ID
 
 <h2> Program Walk-Through: </h2>
 
